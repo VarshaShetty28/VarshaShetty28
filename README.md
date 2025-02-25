@@ -1,8 +1,7 @@
 # Hi 👋, I'm Varsha Shetty  
 ### A passionate Full Stack Developer from India 🇮🇳  
 
-- 🌱 I’m currently learning **Cloud Computing & Advanced SQL**  
-- 💻 I’m currently working on **Travel Bliss**  
+- 🌱 I’m currently learning **Flutter**   
 - 📄 Check out my resume here → [My Resume](#)  
 - 🚀 All of my projects are available on [GitHub](https://github.com/VarshaShetty28)  
 - 🎥 I regularly upload content on **LinkedIn & GitHub**  
