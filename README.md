@@ -10,11 +10,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshaShetty28&show_icons=true&theme=radical)  
-
----
-
 ## 🛠️ Languages and Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
