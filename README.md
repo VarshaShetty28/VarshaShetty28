@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning **Flutter**   
 - 📄 Check out my resume here → [My Resume](#)  
 - 🚀 All of my projects are available on [GitHub](https://github.com/VarshaShetty28)  
-- 🎥 I regularly upload content on **LinkedIn & GitHub**  
-- 💬 Ask me about **React, Tailwind CSS, SQL, and Problem Solving**  
-- 📩 Reach out to me at **varshashetty28@gmail.com**  
+- 💬 Ask me about **React and Tailwind CSS**  
+- 📩 Reach out to me at **varshashetty289@gmail.com**  
 
 ---
 
