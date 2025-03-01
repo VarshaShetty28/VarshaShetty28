@@ -1,56 +1,26 @@
-# Hi 👋, I'm Varsha Shetty  
+# Hi there, I'm Varsha Shetty! 👋
 
-## Full Stack Web Developer  
+🚀 **Full Stack Web Developer** | Passionate about building intuitive and scalable web applications.  
 
-This is me, **Varsha Shetty**, an Engineering Student passionate about **Full-Stack Web Development, UI/UX Design, and Cloud Computing**.  
-An aspiring **Frontend Developer, Open Source Contributor, and Tech Enthusiast**.  
+## 🌟 About Me  
+- 🔭 Currently working on **Travel Bliss** – a platform for exploring the best destinations in India.  
+- 🎨 Love designing seamless **UI/UX** experiences with **React & Tailwind CSS**.  
+- 💡 Exploring **Cloud Computing** and **Data Analytics**.  
+- 🏆 Active **LeetCode** problem solver (on a streak for 20+ days!).  
 
-_"Keep Building, Keep Learning"_ 🚀  
+## 🔧 Tech Stack  
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Figma, VS Code  
 
----
+## 📌 My Projects  
+1. **Travel Bliss** 🌏 - A travel destination platform (React, Tailwind, Next.js)  
+2. **Examination Seat Distribution System** 🎓 - UX design for efficient seating  
+3. **Big Bright Brothers** 🚀 - Tech innovation website  
 
-## 🔹 Little facts about me 🤓  
+## 📫 Connect With Me  
+- **LinkedIn:** [linkedin.com/in/varsha-shetty](#)  
+- **GitHub:** [github.com/Varsha-Shetty](#)  
 
-- 🧞 Tech enthusiast since childhood.  
-- 🔭 I’m currently working on **Frontend Development, React, and Cloud Computing**.  
-- 👯 I’m looking to collaborate on **Fullstack Web Development and UI/UX Projects**.  
-- 💡 Always excited to contribute to **Open Source Projects**.  
-- ⚡ Fun fact: I love **traveling** and exploring new places!  
-
----
-
-## ✨ Tech stack currently using:  
-
-- **Frontend:** React, Next.js, Tailwind CSS, JavaScript  
-- **Backend:** Node.js, Express  
-- **Database:** MySQL  
-- **Tools & Platforms:** Git, GitHub, Figma, Vercel  
-
----
-
-## 🌱 Looking forward to learn:  
-
-- Cloud Computing ☁️  
-- AI & Machine Learning 🤖  
-- Advanced Backend Development 🚀  
-
----
-
-## 📊 GitHub Stats:  
-
-![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshashetty03&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshashetty03&layout=compact&theme=radical)  
-
----
-
-## 🤝 Connect with me 🌍  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varsha_Shetty-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varsha-shetty/)  
-[![Gmail](https://img.shields.io/badge/Gmail-varshashetty03@gmail.com-red?style=flat&logo=gmail)](mailto:varshashetty03@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-varshashetty03-black?style=flat&logo=github)](https://github.com/varshashetty03)  
-
----
-
-**Created with ❤️ by Varsha Shetty**  
-
----
+💬 **Let’s build something amazing together!** 🚀  
