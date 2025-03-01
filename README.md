@@ -14,11 +14,6 @@
 - **Database:** MySQL, MongoDB  
 - **Tools:** Git, Figma, VS Code  
 
-## 📌 My Projects  
-1. **Travel Bliss** 🌏 - A travel destination platform (React, Tailwind, Next.js)  
-2. **Examination Seat Distribution System** 🎓 - UX design for efficient seating  
-3. **Big Bright Brothers** 🚀 - Tech innovation website  
-
 ## 📫 Connect With Me  
 - **LinkedIn:** [linkedin.com/in/varsha-shetty](#)  
 - **GitHub:** [github.com/Varsha-Shetty](#)  
