@@ -1,28 +1,56 @@
 # Hi 👋, I'm Varsha Shetty  
-### A passionate Full Stack Developer from India 🇮🇳  
 
-- 🌱 I’m currently learning **Flutter**   
-- 📄 Check out my resume here → [My Resume](#)  
-- 🚀 All of my projects are available on [GitHub](https://github.com/VarshaShetty28)  
-- 💬 Ask me about **React and Tailwind CSS**  
-- 📩 Reach out to me at **varshashetty289@gmail.com**  
+## Full Stack Web Developer  
 
----
+This is me, **Varsha Shetty**, an Engineering Student passionate about **Full-Stack Web Development, UI/UX Design, and Cloud Computing**.  
+An aspiring **Frontend Developer, Open Source Contributor, and Tech Enthusiast**.  
 
-## 🛠️ Languages and Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+_"Keep Building, Keep Learning"_ 🚀  
 
 ---
 
-## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshashetty/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://varshashetty.dev)  
+## 🔹 Little facts about me 🤓  
+
+- 🧞 Tech enthusiast since childhood.  
+- 🔭 I’m currently working on **Frontend Development, React, and Cloud Computing**.  
+- 👯 I’m looking to collaborate on **Fullstack Web Development and UI/UX Projects**.  
+- 💡 Always excited to contribute to **Open Source Projects**.  
+- ⚡ Fun fact: I love **traveling** and exploring new places!  
 
 ---
 
-🚀 **Always learning, always building!** 🚀  
+## ✨ Tech stack currently using:  
+
+- **Frontend:** React, Next.js, Tailwind CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MySQL  
+- **Tools & Platforms:** Git, GitHub, Figma, Vercel  
+
+---
+
+## 🌱 Looking forward to learn:  
+
+- Cloud Computing ☁️  
+- AI & Machine Learning 🤖  
+- Advanced Backend Development 🚀  
+
+---
+
+## 📊 GitHub Stats:  
+
+![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshashetty03&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshashetty03&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Connect with me 🌍  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varsha_Shetty-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varsha-shetty/)  
+[![Gmail](https://img.shields.io/badge/Gmail-varshashetty03@gmail.com-red?style=flat&logo=gmail)](mailto:varshashetty03@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-varshashetty03-black?style=flat&logo=github)](https://github.com/varshashetty03)  
+
+---
+
+**Created with ❤️ by Varsha Shetty**  
+
+---
