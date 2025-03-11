@@ -3,10 +3,10 @@
 🚀 **Full Stack Web Developer** | Passionate about building intuitive and scalable web applications.  
 
 ## 🌟 About Me  
-- 🔭 Currently working on **Travel Bliss** – a platform for exploring the best destinations in India.  
+- 🔭 Currently working on **HealthGrid** – a platform for Connecting Doctors and patients.  
 - 🎨 Love designing seamless **UI/UX** experiences with **React & Tailwind CSS**.  
-- 💡 Exploring **Cloud Computing** and **Data Analytics**.  
-- 🏆 Active **LeetCode** problem solver (on a streak for 20+ days!).  
+- 💡 Exploring **AI-ML** and **Flutter**.  
+- 🏆 Active **LeetCode** problem solver (on a streak for 50+ days!).  
 
 ## 🔧 Tech Stack  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
@@ -15,7 +15,7 @@
 - **Tools:** Git, Figma, VS Code  
 
 ## 📫 Connect With Me  
-- **LinkedIn:** [linkedin.com/in/varsha-shetty](#)  
+- **LinkedIn:** [[linkedin.com/in/varsha-shetty](https://www.linkedin.com/in/varshashetty28/)](#)  
 - **GitHub:** [github.com/Varsha-Shetty](#)  
 
 💬 **Let’s build something amazing together!** 🚀  
