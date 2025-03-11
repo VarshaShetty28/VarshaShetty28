@@ -15,7 +15,7 @@
 - **Tools:** Git, Figma, VS Code  
 
 ## 📫 Connect With Me  
-- **LinkedIn:** [[linkedin.com/in/varsha-shetty](https://www.linkedin.com/in/varshashetty28/)]  
-- **GitHub:** [[github.com/Varsha-Shetty](https://github.com/VarshaShetty28)]
+- **LinkedIn:** [[Click-Here](https://www.linkedin.com/in/varshashetty28/)]  
+- **GitHub:** [[Click-Here](https://github.com/VarshaShetty28)]
 
 💬 **Let’s build something amazing together!** 🚀  
