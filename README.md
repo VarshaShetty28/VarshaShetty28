@@ -12,7 +12,7 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL, MongoDB  
-- **Tools:** Git, Figma, VS Code  
+- **Tools:** Git, Figma, VS Code .
 
 ## 📫 Connect With Me  
 - **LinkedIn:** [[Click-Here](https://www.linkedin.com/in/varshashetty28/)]  
