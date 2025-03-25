@@ -18,7 +18,7 @@
 - **LinkedIn:** [[Click-Here](https://www.linkedin.com/in/varshashetty28/)]  
 - **GitHub:** [[Click-Here](https://github.com/VarshaShetty28)]
 
-**Let’s build something amazing together!** 🚀  
+**Let’s build something amazing together!** 
 
 
 
