@@ -1,29 +1,57 @@
-const varshaShetty = {
-  name: "Varsha Shetty",
-  role: "Full Stack Web Developer",
-  passion: "Crafting scalable and intuitive web apps with a touch of innovation",
+# Hi there, I'm Varsha Shetty! 👋
 
-  currentlyWorkingOn: "HealthGrid – a smart platform connecting doctors and patients",
+🚀 **Full Stack Web Developer** | Passionate about crafting scalable and user-centric web applications.
 
-  exploring: ["AI/ML using Python", "Java Backend with Spring Boot", "Advanced DSA in Python"],
+---
 
-  strengths: {
-    frontend: ["React.js", "Tailwind CSS", "Next.js"],
-    backend: ["Node.js", "Express.js", "Java (Spring Boot)"],
-    database: ["MySQL", "MongoDB"],
-    tools: ["Git", "Figma", "Postman", "VS Code"]
-  },
+## 💻 Currently Working On
+**🔬 HealthGrid** – A smart platform connecting doctors and patients.
 
-  codingHabits: {
-    leetcode: "Active problem solver (50+ day streak)",
-    designFocus: "Clean, accessible, and responsive UI/UX",
-    learningStyle: "Curious, consistent, and collaborative"
-  },
+---
 
-  connectWithMe: {
-    linkedin: "https://www.linkedin.com/in/varshashetty28/",
-    github: "https://github.com/VarshaShetty28"
-  }
-};
+## 🧠 Exploring & Learning
+- 🤖 **AI/ML with Python**
+- ☕ **Java Backend with Spring Boot**
+- 📈 **Advanced DSA in Python**
 
-console.log("Let’s innovate, build, and grow together! 🚀");
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring)
+
+**Database:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 📈 Coding Habits
+- 🟡 Daily **LeetCode** problem solver (50+ day streak!)
+- 🎨 Strong focus on **clean, responsive UI/UX**
+- 🤝 Believer in **learning + building with teams**
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshashetty28/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VarshaShetty28)
+
+---
+
+✨ _Let’s innovate, build, and grow together!_ 🌱
