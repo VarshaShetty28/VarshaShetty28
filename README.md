@@ -1,24 +1,29 @@
-# Hi there, I'm Varsha Shetty! 👋
+const varshaShetty = {
+  name: "Varsha Shetty",
+  role: "Full Stack Web Developer",
+  passion: "Crafting scalable and intuitive web apps with a touch of innovation",
 
-🚀 **Full Stack Web Developer** | Passionate about building intuitive and scalable web applications.  
+  currentlyWorkingOn: "HealthGrid – a smart platform connecting doctors and patients",
 
-## 🌟 About Me  
-- 🔭 Currently working on **HealthGrid** – a platform for connecting doctors and patients.  
-- 🎨 Love designing seamless **UI/UX** experiences with **React & Tailwind CSS**.  
-- 💡 Exploring **AI-ML** and **Flutter**.  
-- 🏆 Active **LeetCode** problem solver (on a streak for 50+ days!).  
+  exploring: ["AI/ML using Python", "Java Backend with Spring Boot", "Advanced DSA in Python"],
 
-## 🔧 Tech Stack  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, Figma, VS Code  
+  strengths: {
+    frontend: ["React.js", "Tailwind CSS", "Next.js"],
+    backend: ["Node.js", "Express.js", "Java (Spring Boot)"],
+    database: ["MySQL", "MongoDB"],
+    tools: ["Git", "Figma", "Postman", "VS Code"]
+  },
 
-## 📫 Connect With Me  
-- **LinkedIn:** [[Click-Here](https://www.linkedin.com/in/varshashetty28/)]  
-- **GitHub:** [[Click-Here](https://github.com/VarshaShetty28)] .
+  codingHabits: {
+    leetcode: "Active problem solver (50+ day streak)",
+    designFocus: "Clean, accessible, and responsive UI/UX",
+    learningStyle: "Curious, consistent, and collaborative"
+  },
 
-**Let’s build something amazing together!** 
+  connectWithMe: {
+    linkedin: "https://www.linkedin.com/in/varshashetty28/",
+    github: "https://github.com/VarshaShetty28"
+  }
+};
 
-
-
+console.log("Let’s innovate, build, and grow together! 🚀");
