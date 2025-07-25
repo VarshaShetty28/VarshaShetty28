@@ -20,22 +20,17 @@ Currently exploring:
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🧰 My Tech Toolbox
 
-\`\`\`txt
-Languages     : Python | JavaScript | C | Dart
-Frontend      : HTML | CSS | React.js | Tailwind CSS | Framer Motion
-Backend       : Node.js | Express.js | FastAPI
-Database      : MongoDB | SQL | Firebase | Oracle
-AI/ML Tools   : Groq Llama API | OpenAI API | Newspaper3k | NumPy | Pandas | Scikit-Learn
-Tools & IDEs  : Git | GitHub | Postman | VS Code | Figma | Android Studio
-\`\`\`
+<p align=\"center\">
+  <img src=\"https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,fastapi,mongodb,firebase,mysql,git,github,vscode,figma&perline=8\" />
+</p>
 
 ---
 
 ### 🔥 What I’ve Built
 
-| 🔧 Project | 📝 Description | 🚀 Tech Stack |
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |-----------|----------------|---------------|
 | **HealthGrid** | Doctor booking platform with secure login, Stripe integration & role-based dashboards | React, Tailwind, Node.js, MongoDB, JWT, Stripe |
 | **Tunetrek** | Stylish headphone e-commerce site with dark UI and smooth animations | React, Framer Motion |
@@ -56,19 +51,19 @@ Tools & IDEs  : Git | GitHub | Postman | VS Code | Figma | Android Studio
 
 ### 📜 Certifications
 
-- 📘 Postman API Student Expert – Postman (2025)
-- ⚛️ React Bootcamp – LetsUpgrade (2024)
-- 🔵 Oracle Training – Naresh I Tech (2024)
-- 🤖 RPA Developer Foundation – UiPath (2024)
-- 🤖 Salesforce AI – Trailhead (2025)
+- 📘 Postman API Student Expert – Postman (2025)  
+- ⚛️ React Bootcamp – LetsUpgrade (2024)  
+- 🔵 Oracle Training – Naresh I Tech (2024)  
+- 🤖 RPA Developer Foundation – UiPath (2024)  
+- 🤖 Salesforce AI – Trailhead (2025)  
 - 🧠 Python + HTML Course – Udemy (2024)
 
 ---
 
-### 🧠 Fun Facts
+### 🎯 Fun Facts
 
-- 🎤 I love singing when I’m not coding
-- 💡 Always exploring the “why” behind tech
+- 🎤 I love singing when I’m not coding  
+- 💡 Always exploring the “why” behind tech  
 - 🤖 AI is my favorite superpower in progress!
 
 ---
@@ -87,6 +82,6 @@ Tools & IDEs  : Git | GitHub | Postman | VS Code | Figma | Android Studio
 - 📬 **Email:** [varshashetty289@gmail.com](mailto:varshashetty289@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/varshashetty28](https://www.linkedin.com/in/varshashetty28)  
 - 🌐 **Portfolio:** [My Website](https://personal-portfolio-pi-lac.vercel.app/)  
-- 🧑‍💻 **GitHub:** [github.com/VarshaShetty28](https://github.com/VarshaShetty28)  
+- 🧑‍💻 **GitHub:** [github.com/VarshaShetty28](https://github.com/VarshaShetty28)
 
----" > README.md && git init && git add README.md && git commit -m "🧠 Add AI/ML section and update GitHub profile" && git branch -M main && git remote add origin https://github.com/VarshaShetty28/VarshaShetty28.git && git push -u origin main
+---" > README.md && git init && git add README.md && git commit -m "🧠 Add Tech Stack Icons and Polish GitHub Profile" && git branch -M main && git remote add origin https://github.com/VarshaShetty28/VarshaShetty28.git && git push -u origin main
