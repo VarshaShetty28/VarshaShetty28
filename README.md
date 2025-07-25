@@ -1,46 +1,92 @@
-<h1 align="center">Hi there, I'm <span style="color:#F97316;">Varsha Shetty</span>! 👋</h1>
-<p align="center">🚀 Full Stack Developer | UI/UX Enthusiast | Lifelong Learner</p>
+echo "## 👩‍💻 Hey, I'm **Varsha Shetty**
+
+🎓 Computer Science Engineering Student | 💡 Full-Stack & AI Enthusiast | ⚙️ System Design Explorer  
+🌱 Learning. 💻 Building. 🧠 Automating.
 
 ---
 
-### 🧠 Currently Working On
-> 🏥 **HealthGrid** – A smart platform connecting doctors and patients.
+> _\"Code with clarity. Design with purpose. Build with passion.\"_
 
 ---
 
-### 🔍 Exploring & Learning
+### 🔍 About Me
 
-- 🤖 AI/ML with Python  
-- ☕ Java Backend with Spring Boot  
-- 📈 DSA with Python  
+A passionate developer from Karnataka, India 🇮🇳, I specialize in building responsive full-stack applications — and I'm now diving into the world of **AI & Machine Learning**. Whether it's crafting APIs or applying LLMs, I love turning logic into solutions that feel magical.
 
----
-
-### 💼 Tech Stack
-
-| Frontend | Backend | Database | Tools |
-|---------|--------|----------|-------|
-| ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) <br> ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) <br> ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) <br> ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code) |
+Currently exploring:
+- 🤖 AI + LLM integrations (Groq Llama, OpenAI)
+- 🧩 System Design & Scalable Architecture
+- 🛠️ Real-world automation with FastAPI & React
 
 ---
 
-### ✨ Coding Habits
+### 🛠️ My Tech Toolbox
 
-✅ LeetCode streak: **50+ days**  
-🎨 Designing clean, intuitive UIs  
-🤝 Open to collaboration, building and sharing ideas
+\`\`\`txt
+Languages     : Python | JavaScript | C | Dart
+Frontend      : HTML | CSS | React.js | Tailwind CSS | Framer Motion
+Backend       : Node.js | Express.js | FastAPI
+Database      : MongoDB | SQL | Firebase | Oracle
+AI/ML Tools   : Groq Llama API | OpenAI API | Newspaper3k | NumPy | Pandas | Scikit-Learn
+Tools & IDEs  : Git | GitHub | Postman | VS Code | Figma | Android Studio
+\`\`\`
 
 ---
 
-### 🌐 Let’s Connect
+### 🔥 What I’ve Built
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varshashetty28/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/VarshaShetty28"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+| 🔧 Project | 📝 Description | 🚀 Tech Stack |
+|-----------|----------------|---------------|
+| **HealthGrid** | Doctor booking platform with secure login, Stripe integration & role-based dashboards | React, Tailwind, Node.js, MongoDB, JWT, Stripe |
+| **Tunetrek** | Stylish headphone e-commerce site with dark UI and smooth animations | React, Framer Motion |
+| **Nugget** | 🧠 AI-powered RSS news aggregator with real-time summarization & filtering | React, FastAPI, Groq Llama API, Newspaper3k |
+| **My Portfolio** | Personal website with responsive design and animation | React, Tailwind, Framer Motion |
+
+---
+
+### 🏅 Highlights
+
+- 🧠 **Top 100 @ HACKHAZARDS '25** – 2900+ global teams  
+- 🧠 Built an LLM-powered news summarizer (Groq + FastAPI)  
+- 🥉 3rd Place – CSS Battle (CORE x CSI MITE, 2024)  
+- ☁️ Google Cloud Arcade Program – Badge Holder  
+- ⚡ Participant – Fusion Techathon 3.0, National Hackathon  
+
+---
+
+### 📜 Certifications
+
+- 📘 Postman API Student Expert – Postman (2025)
+- ⚛️ React Bootcamp – LetsUpgrade (2024)
+- 🔵 Oracle Training – Naresh I Tech (2024)
+- 🤖 RPA Developer Foundation – UiPath (2024)
+- 🤖 Salesforce AI – Trailhead (2025)
+- 🧠 Python + HTML Course – Udemy (2024)
+
+---
+
+### 🧠 Fun Facts
+
+- 🎤 I love singing when I’m not coding
+- 💡 Always exploring the “why” behind tech
+- 🤖 AI is my favorite superpower in progress!
+
+---
+
+### 📈 GitHub Stats
+
+<p align=\"center\">
+  <img src=\"https://github-readme-stats.vercel.app/api?username=VarshaShetty28&show_icons=true&theme=tokyonight\" width=\"47%\" />
+  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaShetty28&layout=compact&theme=tokyonight\" width=\"47%\" />
 </p>
 
 ---
 
-<blockquote align="center">
-  <strong><i>“Let’s innovate, build, and grow together!” 🚀</i></strong>
-</blockquote>
+### 🤝 Connect with Me
+
+- 📬 **Email:** [varshashetty289@gmail.com](mailto:varshashetty289@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/varshashetty28](https://www.linkedin.com/in/varshashetty28)  
+- 🌐 **Portfolio:** [My Website](https://personal-portfolio-pi-lac.vercel.app/)  
+- 🧑‍💻 **GitHub:** [github.com/VarshaShetty28](https://github.com/VarshaShetty28)  
+
+---" > README.md && git init && git add README.md && git commit -m "🧠 Add AI/ML section and update GitHub profile" && git branch -M main && git remote add origin https://github.com/VarshaShetty28/VarshaShetty28.git && git push -u origin main
