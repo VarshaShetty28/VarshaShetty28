@@ -22,9 +22,10 @@ Currently exploring:
 
 ### 🧰 My Tech Toolbox
 
-<p align=\"center\">
-  <img src=\"https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,fastapi,mongodb,firebase,mysql,git,github,vscode,figma&perline=8\" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,fastapi,mongodb,firebase,mysql,git,github,vscode,figma&perline=8" />
 </p>
+
 
 ---
 
