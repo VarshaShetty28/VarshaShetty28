@@ -1,4 +1,4 @@
-echo "## 👩‍💻 Hey, I'm **Varsha Shetty**
+ 👩‍💻 Hey, I'm **Varsha Shetty**
 
 🎓 Computer Science Engineering Student | 💡 Full-Stack & AI Enthusiast | ⚙️ System Design Explorer  
 🌱 Learning. 💻 Building. 🧠 Automating.
