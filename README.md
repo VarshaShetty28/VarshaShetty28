@@ -73,6 +73,7 @@ Currently exploring:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaShetty28&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/> br/>
   <img src="https://streak-stats.demolab.com?user=VarshaShetty28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -83,6 +84,4 @@ Currently exploring:
 <p align="center">
   <a href="mailto:varshashetty289@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" alt="Gmail" height="25"/></a>
   <a href="https://www.linkedin.com/in/varshashetty28"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" height="25"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" alt="Discord" height="25"/></a>
-  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" alt="YouTube" height="25"/></a>
 </p>
