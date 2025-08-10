@@ -1,49 +1,49 @@
- 👩‍💻 Hey, I'm **Varsha Shetty**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=50&duration=4000&pause=200&color=934FF7&center=true&vCenter=true&width=450&height=60&lines=Hey+There+%F0%9F%91%8B;I'm+Varsha+Shetty" alt="Typing SVG" />
+</h1>
 
-🎓 Computer Science Engineering Student | 💡 Full-Stack & AI Enthusiast | ⚙️ System Design Explorer  
-🌱 Learning. 💻 Building. 🧠 Automating.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VarshaShetty28" alt="Visitor Badge" />
+</div>
 
 ---
 
-> _\"Code with clarity. Design with purpose. Build with passion.\"_
+### 👩‍💻 About Me
 
----
-
-### 🔍 About Me
-
-A passionate developer from Karnataka, India 🇮🇳, I specialize in building responsive full-stack applications — and I'm now diving into the world of **AI & Machine Learning**. Whether it's crafting APIs or applying LLMs, I love turning logic into solutions that feel magical.
-
+I'm **Varsha Shetty**, a Computer Science Engineering student passionate about full-stack development, AI, and system design.  
 Currently exploring:
-- 🤖 AI + LLM integrations (Groq Llama, OpenAI)
-- 🧩 System Design & Scalable Architecture
-- 🛠️ Real-world automation with FastAPI & React
+
+- 🤖 AI & LLM integrations (Groq Llama, OpenAI)  
+- 🧩 Scalable system architecture  
+- ⚙️ Automation with FastAPI & React
+
+> _"Code with clarity. Design with purpose. Build with passion."_
 
 ---
 
-### 🧰 My Tech Toolbox
+### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,fastapi,mongodb,firebase,mysql,git,github,vscode,figma&perline=8" />
 </p>
 
-
 ---
 
-### 🔥 What I’ve Built
+### 🚀 Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|----------------|---------------|
-| **HealthGrid** | Doctor booking platform with secure login, Stripe integration & role-based dashboards | React, Tailwind, Node.js, MongoDB, JWT, Stripe |
-| **Tunetrek** | Stylish headphone e-commerce site with dark UI and smooth animations | React, Framer Motion |
-| **Nugget** | 🧠 AI-powered RSS news aggregator with real-time summarization & filtering | React, FastAPI, Groq Llama API, Newspaper3k |
-| **My Portfolio** | Personal website with responsive design and animation | React, Tailwind, Framer Motion |
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| **HealthGrid** | Doctor booking platform with secure login, Stripe & role-based dashboards | React, Tailwind, Node.js, MongoDB, JWT, Stripe |
+| **Tunetrek** | Stylish headphone e-commerce site with dark UI and animations | React, Framer Motion |
+| **Nugget** | AI-powered RSS news aggregator with real-time summaries | React, FastAPI, Groq Llama API, Newspaper3k |
+| **My Portfolio** | Responsive personal website with smooth animations | React, Tailwind, Framer Motion |
 
 ---
 
 ### 🏅 Highlights
 
-- 🧠 **Top 100 @ HACKHAZARDS '25** – 2900+ global teams  
-- 🧠 Built an LLM-powered news summarizer (Groq + FastAPI)  
+- 🧠 Top 100 @ HACKHAZARDS '25 – 2900+ global teams  
+- 🧠 Built LLM-powered news summarizer (Groq + FastAPI)  
 - 🥉 3rd Place – CSS Battle (CORE x CSI MITE, 2024)  
 - ☁️ Google Cloud Arcade Program – Badge Holder  
 - ⚡ Participant – Fusion Techathon 3.0, National Hackathon  
@@ -70,15 +70,19 @@ Currently exploring:
 ---
 
 ### 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaShetty28&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=VarshaShetty28&theme=tokyonight&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaShetty28&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=VarshaShetty28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🤝 Connect with Me
 
-- 📬 **Email:** [varshashetty289@gmail.com](mailto:varshashetty289@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/varshashetty28](https://www.linkedin.com/in/varshashetty28)  
-- 🌐 **Portfolio:** [My Website](https://personal-portfolio-pi-lac.vercel.app/)  
-- 🧑‍💻 **GitHub:** [github.com/VarshaShetty28](https://github.com/VarshaShetty28)
-
+<p align="center">
+  <a href="mailto:varshashetty289@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" alt="Gmail" height="25"/></a>
+  <a href="https://www.linkedin.com/in/varshashetty28"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" height="25"/></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" alt="Discord" height="25"/></a>
+  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" alt="YouTube" height="25"/></a>
+</p>
