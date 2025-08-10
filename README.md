@@ -13,9 +13,9 @@
 I'm **Varsha Shetty**, a Computer Science Engineering student passionate about full-stack development, AI, and system design.  
 Currently exploring:
 
-- 🤖 AI & LLM integrations (Groq Llama, OpenAI)  
+- 🤖 AI & LLM integrations 
 - 🧩 Scalable system architecture  
-- ⚙️ Automation with FastAPI & React
+- ⚙️ Automation
 
 > _"Code with clarity. Design with purpose. Build with passion."_
 
