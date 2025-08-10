@@ -73,7 +73,7 @@ Currently exploring:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaShetty28&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/> br/>
+  <br/> <br/>
   <img src="https://streak-stats.demolab.com?user=VarshaShetty28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
