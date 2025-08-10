@@ -11,11 +11,10 @@
 ### 👩‍💻 About Me
 
 I'm **Varsha Shetty**, a Computer Science Engineering student passionate about full-stack development, AI, and system design.  
-Currently exploring:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Hackathon+Enthusiast;Passionate+Programmer" alt="Typing SVG" />
+</p>
 
-- 🤖 AI & LLM integrations 
-- 🧩 Scalable system architecture  
-- ⚙️ Automation
 
 > _"Code with clarity. Design with purpose. Build with passion."_
 
