@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=50&duration=4000&pause=200&color=934FF7&center=true&vCenter=true&width=450&height=60&lines=Hey+There+%F0%9F%91%8B;I'm+Varsha+Shetty" alt="Typing SVG" />
+  Varsha Shetty
 </h1>
 
 <div align="center">
