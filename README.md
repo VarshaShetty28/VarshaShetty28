@@ -1,8 +1,11 @@
 
 <h1 align="center">
   Hi there 👋, I'm Varsha Shetty
-  Full Stack Developer | Hackathon Enthusiast | Agentic Ai Developer
 </h1>
+<p  align="center">
+ Full Stack Developer | Hackathon Enthusiast | Agentic Ai Developer
+</p>
+ 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VarshaShetty28" alt="Visitor Badge" />
