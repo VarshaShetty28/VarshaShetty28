@@ -1,6 +1,7 @@
 
 <h1 align="center">
-  Varsha Shetty
+  Hi there 👋, I'm Varsha Shetty
+  Full Stack Developer | Hackathon Enthusiast | Agentic Ai Developer
 </h1>
 
 <div align="center">
