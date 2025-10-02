@@ -46,16 +46,16 @@ I'm **Varsha Shetty**, a Computer Science Engineering student passionate about f
 <div align="center"> 
   <h2 align="center">🏆 LeetCode Achievements 🏆</h2>  
   <p align="center">
-    <a href="https://leetcode.com/u/Varshashetty__28/" target="_blank">
+    <a href="https://leetcode.com/u//" target="_blank">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Day Badge" height="120" width="120" />
     </a>
-    <a href="https://leetcode.com/u/Varshashetty__28/" target="_blank">
+    <a href="https://leetcode.com/u//" target="_blank">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Day Badge" height="120" width="120" />
     </a>
-    <a href="https://leetcode.com/u/Varshashetty__28/" target="_blank">
+    <a href="https://leetcode.com/u//" target="_blank">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Day Badge 2" height="120" width="120" />
     </a>
-    <a href="https://leetcode.com/u/Varshashetty__28/" target="_blank">
+    <a href="https://leetcode.com/u//" target="_blank">
       <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="September Badge" height="120" width="120" />
     </a>
   </p>
