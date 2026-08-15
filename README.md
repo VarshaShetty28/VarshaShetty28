@@ -16,7 +16,7 @@
 
 I'm **Varsha Shetty**, a Computer Science Engineering student passionate about Software Development and AI (Agentic AI).
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Hackathon+Enthusiast;Passionate+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Hackathon+Enthusiast;Passionate+Programmer" alt="Typing SVG" />
 </p>
 
 > *"Code with clarity. Design with purpose. Build with passion."*
