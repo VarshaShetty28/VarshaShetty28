@@ -1,9 +1,8 @@
-
 <h1 align="center">
   Hi there 👋, I'm Varsha Shetty
 </h1>
 <p  align="center">
- Full Stack Developer | Hackathon Enthusiast | Agentic Ai Developer
+ Software Developer | Hackathon Enthusiast | Agentic Ai Developer
 </p>
  
 
@@ -15,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Varsha Shetty**, a Computer Science Engineering student passionate about full-stack development and AI (Agentic AI).
+I'm **Varsha Shetty**, a Computer Science Engineering student passionate about Software Development and AI (Agentic AI).
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Hackathon+Enthusiast;Passionate+Programmer" alt="Typing SVG" />
 </p>
